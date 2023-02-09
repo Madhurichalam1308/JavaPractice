@@ -12,7 +12,6 @@ public class ReverseInteger {
 //        {
 //            rev = (rev * 10) + (num % 10);
 //            num = num / 10;
-//
 //        }
 //        System.out.println("Reverse of the interger is : " + rev);
 
