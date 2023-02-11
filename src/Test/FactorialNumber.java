@@ -28,7 +28,6 @@ public class FactorialNumber {
     }
 
 
-
     public static void main(String[] args) {
 
         System.out.println(fact(3));
